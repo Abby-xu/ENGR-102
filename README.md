@@ -1,2 +1,1 @@
-# ENGR-102
-python, U1 fall semester, code for TAMU general engineering
+TAMU ENGR 101 taken with Dr. Noushin Amini in 2019 fall at Galveston campus. As a TAMU student, you are violating the honor code....
